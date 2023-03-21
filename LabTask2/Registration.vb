@@ -6,9 +6,9 @@
 
     Private Sub AboutToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles AboutToolStripMenuItem.Click
         MessageBox.Show("Developed by: - " +
-                        vbNewLine + "Name : James Khor Xuan Hao" +
-                        vbNewLine + "Registration Number : 10DDT21F1032" +
-                        vbNewLine + "Class : DDT5B", "Status", MessageBoxButtons.OK, MessageBoxIcon.Information)
+                        vbNewLine + "Name : James" +
+                        vbNewLine + "Registration Number : " +
+            vbNewLine + "Class : JTMK", "Status", MessageBoxButtons.OK, MessageBoxIcon.Information)
     End Sub
 
     Private Sub ExitToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ExitToolStripMenuItem.Click
